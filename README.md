@@ -1,2 +1,5 @@
 # project-_management-_system
-project Management System
+
+## setup
+-python:"3.12"
+-django:"5"
